@@ -1,0 +1,2 @@
+import tensorflow
+tensorflow.__version__
